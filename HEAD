@@ -1,1 +1,9 @@
-ref: refs/heads/main
+0000000000000000000000000000000000000000 dcf694eadb1a558359ff7391879979d9e96c49db talhaaraizmahmo <42264766-talhaaraizmahmo@users.noreply.replit.com> 1746369219 +0000	commit (initial): Initial commit
+dcf694eadb1a558359ff7391879979d9e96c49db 19f3d746198aabf19dd31c9c9cd3b3a78a983237 talhaaraizmahmo <42264766-talhaaraizmahmo@users.noreply.replit.com> 1746369219 +0000	commit: Initial checkpoint
+19f3d746198aabf19dd31c9c9cd3b3a78a983237 b1fd71f67ee5b8204986b60d1d519e785c7d1aaf talhaaraizmahmo <42264766-talhaaraizmahmo@users.noreply.replit.com> 1746369628 +0000	commit: Set up project with configuration, dependencies, and ML pipeline
+b1fd71f67ee5b8204986b60d1d519e785c7d1aaf 7b27e75b699fbc1b3a584a2409d133dbeea589bd Hamna Imran <your.email@example.com> 1746383117 +0500	commit: Initial commit with updated UI and styling
+7b27e75b699fbc1b3a584a2409d133dbeea589bd 0000000000000000000000000000000000000000 hamnaiimran <hamnaimran1000@gmail.com> 1746383250 +0500	Branch: renamed refs/heads/main to refs/heads/main
+7b27e75b699fbc1b3a584a2409d133dbeea589bd 7b27e75b699fbc1b3a584a2409d133dbeea589bd hamnaiimran <hamnaimran1000@gmail.com> 1746383250 +0500	Branch: renamed refs/heads/main to refs/heads/main
+7b27e75b699fbc1b3a584a2409d133dbeea589bd 67ee8419a9053a4934a39e34331483a2d4d9e895 hamnaiimran <hamnaimran1000@gmail.com> 1746383451 +0500	commit (merge): Updated app with enhanced UI and styling
+67ee8419a9053a4934a39e34331483a2d4d9e895 4bc8910754570bd1c09d9cbbdbb81a08692b07e9 hamnaiimran <hamnaimran1000@gmail.com> 1746384225 +0500	commit: Added utility files for data processing and ML
+4bc8910754570bd1c09d9cbbdbb81a08692b07e9 92a2d8eaa1df70febf8182a1305a30c2934d6b68 hamnaiimran <hamnaimran1000@gmail.com> 1746384374 +0500	commit: Updated config
